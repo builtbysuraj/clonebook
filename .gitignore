@@ -16,8 +16,6 @@ dist-ssr
 .env
 firebaseConfig.jsx
 firebase-stuffs
-postcss.config.cjs
-tailwind.config.cjs
 
 # Editor directories and files
 .vscode/*
