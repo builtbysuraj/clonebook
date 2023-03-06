@@ -13,8 +13,6 @@ dist-ssr
 *.local
 
 # my added
-.env
-firebaseConfig.jsx
 firebase-stuffs
 
 # Editor directories and files
